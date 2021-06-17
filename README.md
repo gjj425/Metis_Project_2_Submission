@@ -1,4 +1,4 @@
-# Linear Regression of Queens (NYC) real estate data
+# Linear Regression of Queens (NYC) Real Estate Data
 
 
 ## Important files
